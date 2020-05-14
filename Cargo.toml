@@ -1,0 +1,8 @@
+[package]
+name = "ros_qr_jotari"
+version = "0.0.0"
+authors = ["Loy van Beek <loy@scoutingboxtel.nl>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.1"
